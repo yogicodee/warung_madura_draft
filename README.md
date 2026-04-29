@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🏪 Warung Madura 24/7
 
-# Run and deploy your AI Studio app
+A digital storefront for the legendary 24/7 Warung Madura. Built with high-performance tech to handle high-density sembako management and essentials.
 
-This contains everything you need to run your app locally.
+## 🚀 Fitur Utama
 
-View your app in AI Studio: https://ai.studio/apps/5ad0b065-4951-48f1-af66-f7fd39f0e837
+- **Katalog Sembako Digital**: Daftar produk lengkap mulai dari beras, telur, hingga bensin eceran.
+- **High-Density UI**: Antarmuka yang padat informasi namun tetap bersih, memudahkan navigasi cepat.
+- **24/7 Live Status**: Indikator real-time yang menunjukkan warung selalu siap melayani.
+- **Keranjang Belanja**: Sistem manajemen pesanan yang intuitif dengan perhitungan otomatis.
+- **Filtering Kategori**: Cari barang kebutuhanmu berdasarkan kategori (Bahan Bakar, Sembako, Minuman, dll).
+- **Notifikasi Aktivitas**: Feed aktivitas real-time untuk memantau status pesanan dan testimoni pelanggan.
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+- **Frontend**: React 19 (Vite)
+- **Backend**: Express.js
+- **Styling**: Tailwind CSS (with Custom High-Density Theme)
+- **Icons**: Lucide React
+- **Animations**: Motion (framer-motion)
 
+## 📦 Kategori Produk
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Bahan Bakar**: Bensin eceran (Pertamax) siap gas.
+- **Sembako**: Beras, telur, mi instan, dan kebutuhan dapur lainnya.
+- **Minuman**: Kopi, galon, dan aneka minuman sachet.
+- **Lain-lain**: Rokok, snack, dan perlengkapan harian.
